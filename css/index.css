@@ -1,0 +1,74 @@
+body{
+	background-color: black;
+}
+
+.nav a{
+	padding: 20px;
+	margin-right: 100px;
+	color: white;
+}
+
+.nav li{
+	color: red;
+}
+
+
+.jumbotron{
+	background-image: url(../klasikan.png);
+	height: 800px;
+	background-size: cover;
+}
+
+.jumbotron h1{
+	color: #d3d3d3;
+	font-size: 70px;
+	margin-top: 200px;
+	font-weight:bold;
+}
+
+.jumbotron p{
+	margin-top: 20px;
+	font-size: 50px;
+	color: black;
+}
+
+.jumbotron a{
+	color: black;
+}
+
+.jumbotron i{
+	font-size: 80px;
+	padding: 60px;
+	color: white;
+	margin-left: 100px;
+}		
+
+.btn{
+	margin-top: 80px;
+	margin-left: 50px;
+	width: 200px;
+}
+
+#about hr{
+	border-top: 4px solid black;
+	width: 200px;
+}
+
+#about p{
+	font-size: 30px;
+}
+
+#profil h2{
+	margin-top: 40px;
+}
+
+#profil hr{
+	border-top: 4px solid black;
+	width: 200px;
+	margin-top: 20px;
+}
+
+#profil img{
+	width: 400px;
+	padding: 20px;
+}
